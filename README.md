@@ -1,5 +1,7 @@
 # eZ Publish Legacy Tests
 
+[![Join the chat at https://gitter.im/jeromegamez/ezpublish-legacy-tests](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jeromegamez/ezpublish-legacy-tests?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](https://travis-ci.org/jeromegamez/ezpublish-legacy-tests.png)](https://travis-ci.org/jeromegamez/ezpublish-legacy-tests)
 [![Coverage Status](https://coveralls.io/repos/jeromegamez/ezpublish-legacy-tests/badge.png?branch=master)](https://coveralls.io/r/jeromegamez/ezpublish-legacy-tests?branch=master)
 
